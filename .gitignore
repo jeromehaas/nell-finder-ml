@@ -1,0 +1,24 @@
+.DS_Store
+
+# Local environment
+.venv/
+.idea/
+
+# Python and Jupyter artifacts
+__pycache__/
+*.py[cod]
+*.cache
+.ipynb_checkpoints/
+
+# Downloaded model weights
+src/*.pt
+
+# Generated training artifacts
+/data/tmp/
+/runs/
+data/input/images/*
+data/input/labels/*
+
+# Exported models
+dist/*
+!dist/.gitkeep

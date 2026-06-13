@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "card_back"
+    },
+    {
+      "id": 1,
+      "name": "eichel_10"
+    },
+    {
+      "id": 2,
+      "name": "eichel_6"
+    },
+    {
+      "id": 3,
+      "name": "eichel_7"
+    },
+    {
+      "id": 4,
+      "name": "eichel_8"
+    },
+    {
+      "id": 5,
+      "name": "eichel_9"
+    },
+    {
+      "id": 6,
+      "name": "eichel_ass"
+    },
+    {
+      "id": 7,
+      "name": "eichel_koenig"
+    },
+    {
+      "id": 8,
+      "name": "eichel_ober"
+    },
+    {
+      "id": 9,
+      "name": "eichel_under"
+    },
+    {
+      "id": 10,
+      "name": "rosen_10"
+    },
+    {
+      "id": 11,
+      "name": "rosen_6"
+    },
+    {
+      "id": 12,
+      "name": "rosen_7"
+    },
+    {
+      "id": 13,
+      "name": "rosen_8"
+    },
+    {
+      "id": 14,
+      "name": "rosen_9"
+    },
+    {
+      "id": 15,
+      "name": "rosen_ass"
+    },
+    {
+      "id": 16,
+      "name": "rosen_koenig"
+    },
+    {
+      "id": 17,
+      "name": "rosen_ober"
+    },
+    {
+      "id": 18,
+      "name": "rosen_under"
+    },
+    {
+      "id": 19,
+      "name": "schellen_10"
+    },
+    {
+      "id": 20,
+      "name": "schellen_6"
+    },
+    {
+      "id": 21,
+      "name": "schellen_7"
+    },
+    {
+      "id": 22,
+      "name": "schellen_8"
+    },
+    {
+      "id": 23,
+      "name": "schellen_9"
+    },
+    {
+      "id": 24,
+      "name": "schellen_ass"
+    },
+    {
+      "id": 25,
+      "name": "schellen_koenig"
+    },
+    {
+      "id": 26,
+      "name": "schellen_ober"
+    },
+    {
+      "id": 27,
+      "name": "schellen_under"
+    },
+    {
+      "id": 28,
+      "name": "schilten_10"
+    },
+    {
+      "id": 29,
+      "name": "schilten_6"
+    },
+    {
+      "id": 30,
+      "name": "schilten_7"
+    },
+    {
+      "id": 31,
+      "name": "schilten_8"
+    },
+    {
+      "id": 32,
+      "name": "schilten_9"
+    },
+    {
+      "id": 33,
+      "name": "schilten_ass"
+    },
+    {
+      "id": 34,
+      "name": "schilten_koenig"
+    },
+    {
+      "id": 35,
+      "name": "schilten_ober"
+    },
+    {
+      "id": 36,
+      "name": "schilten_under"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

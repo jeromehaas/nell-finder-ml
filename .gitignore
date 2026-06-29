@@ -14,10 +14,13 @@ __pycache__/
 src/*.pt
 
 # Generated training artifacts
-/data/tmp/
+/data/tmp/*
+!/data/tmp/.gitkeep
 /runs/
 data/input/images/*
+!data/input/images/.gitkeep
 data/input/labels/*
+!data/input/labels/.gitkeep
 
 # Exported models
 dist/*
